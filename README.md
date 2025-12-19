@@ -2,7 +2,7 @@
 
 <img src="https://github.com/tnahddisttud/tnahddisttud/blob/main/siddhant_tnahddisttud.png" width="100%" alt="banner" />
 
-AI Research Engineer | Systems Thinker | Builder | Geek
+<strong><code>🤖 AI Research Engineer | 🧩 Systems Thinker | 🛠️ Builder | 👨🏻‍💻 Geek</code></strong>
 
 [![GitHub Followers](https://img.shields.io/github/followers/tnahddisttud?style=for-the-badge)](https://github.com/tnahddisttud?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/tnahddisttud?style=for-the-badge)](https://github.com/tnahddisttud?tab=repositories)
