@@ -10,19 +10,19 @@ AI Research Engineer | Systems Thinker | Builder | Geek
 
 </div>
 
-## What I Do
+## ⌨️ What I Do
 
 - Develop **LLM-powered systems**: RAG pipelines, Agentic Systems, evaluation frameworks  
 - Translate research ideas into clean, production-level code  
 - Teaching AI from first principles
 
 ---
-### Tech Stack
+### 🧰 Tech Stack
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,c,go,numpy,scikitlearn,scipy,pytorch,opencv,fastapi,huggingface,langchain,agno,crewai,chatgpt,ollama,groq,kafka,redis,airflow,docker,aws,linux,qdrant,elasticsearch,mlflow,celery,streamlit,swagger,cuda,googlecolab&titles=true)
 
 ---
 
-## Philosophy
+## 📝 Philosophy
 
 - Systems over demos  
 - Fundamentals over frameworks  
@@ -30,7 +30,7 @@ AI Research Engineer | Systems Thinker | Builder | Geek
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=tnahddisttud&show_icons=true&theme=radical" />
