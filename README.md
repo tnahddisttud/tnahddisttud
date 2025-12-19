@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/tnahddisttud/tnahddisttud/blob/main/profile-banner.png" width="100%" alt="banner" />
+<img src="https://github.com/tnahddisttud/tnahddisttud/blob/main/siddhant_tnahddisttud.png" width="100%" alt="banner" />
 
 # siddhant 
 AI Research Engineer | Systems Thinker | Builder | Geek
