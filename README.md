@@ -2,7 +2,6 @@
 
 <img src="https://github.com/tnahddisttud/tnahddisttud/blob/main/siddhant_tnahddisttud.png" width="100%" alt="banner" />
 
-# siddhant 
 AI Research Engineer | Systems Thinker | Builder | Geek
 
 [![GitHub Followers](https://img.shields.io/github/followers/tnahddisttud?style=for-the-badge)](https://github.com/tnahddisttud?tab=followers)
