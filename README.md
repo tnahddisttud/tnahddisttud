@@ -9,7 +9,9 @@
 [![Follow On X](https://img.shields.io/twitter/follow/tnahddisttud?style=for-the-badge)](https://github.com/tnahddisttud?tab=repositories)
 
 </div>
-
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tnahddisttud.tnahddisttud&"  />
+</div>
 ## ⌨️ What I Do
 
 - Develop **LLM-powered systems**: RAG pipelines, Agentic Systems, evaluation frameworks  
@@ -26,16 +28,7 @@
 
 - Systems over demos  
 - Fundamentals over frameworks  
-- If you cannot build it, you do not understand it 
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=tnahddisttud&show_icons=true&theme=radical" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnahddisttud&layout=compact&theme=radical" />
-</p>
+- If I cannot build it, I do not understand it 
 
 ---
 
